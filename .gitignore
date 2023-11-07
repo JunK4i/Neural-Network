@@ -1,3 +1,6 @@
 junkai/data/*
+data/
 *.pt
 *.pth
+**/.ipynb_checkpoints/
+junkai/.ipynb_checkpoints/Object Label and Segmentation-checkpoint.ipynb
