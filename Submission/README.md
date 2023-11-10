@@ -25,6 +25,6 @@ Data-Preprocessing.ipynb: Contains the preprocessing steps to obtain processed_i
 
 ## Model Training
 
-Basic CNN.ipynb: This notebook runs both the processed and unprocessed images through a basic CNN model for gender classification.
-ResNet Transfer Learning.ipynb: Demonstrates transfer learning from ResNet50, tailored for gender classification.
+Basic CNN.ipynb: This notebook runs both the processed and unprocessed images through a basic CNN model for gender classification.  
+ResNet Transfer Learning.ipynb: Demonstrates transfer learning from ResNet50, tailored for gender classification.  
 Multi Attribute ResNet.ipynb: Improves upon the previous model by incorporating additional attribute information provided in the CelebA dataset.
